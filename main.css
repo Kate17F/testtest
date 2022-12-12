@@ -1,0 +1,14 @@
+
+body, html {
+    background-image: linear-gradient(to left, violet, red);
+    width: 100%;
+    margin: 0;
+}
+div {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
